@@ -6,6 +6,8 @@ public class Greetings
 
     public void SayHi() => Console.WriteLine("Hi From Greetings.Nuget.Demo Package");
 
+    public void SayOK() => Console.WriteLine("OK");
+
     public void SayGoodMorning() => Console.WriteLine("Good Morning From Greetings.Nuget.Demo Package");
 
     public void SayGoodNight() => Console.WriteLine("Good Night From Greetings.Nuget.Demo Package");
